@@ -8,5 +8,7 @@
     $pagetitle = 'Example page';
     get_layout('default');
 ?>
-<h1>This is an example view</h1>
-<p>Edit this file, or delete it and start creating your own views.</p>
+<div class="content">
+    <h1>This is an example view</h1>
+    <p>Edit this file, or delete it and start creating your own views.</p>
+</div>
